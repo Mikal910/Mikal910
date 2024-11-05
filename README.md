@@ -4,7 +4,7 @@
 <ul>
   <li>👋 Hi, I’m Mikal</li>
   <li>👀 I’m interested in full-stack development, creating sleek and professional websites, and exploring innovative technologies that can help bring ideas to life.</li>
-  <li>🌱 I’m currently learning advanced JavaScript frameworks.</li>
+  <li>🌱 I’m currently diving deeper into React.</li>
   <li>💞️ I’m looking to collaborate on web development projects, especially those focusing on cutting-edge front-end experiences or complex backend logic.</li>
   <li>📫 How to reach me: <a href="https://mikalmuwakkil.netlify.app/" target="_blank">https://mikalmuwakkil.netlify.app/</a></li>
   <li>😄 Pronouns: He/Him</li>
